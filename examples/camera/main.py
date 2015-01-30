@@ -9,7 +9,7 @@ throw an exception during the kv language processing.
 
 '''
 
-# Uncomment this lines to see all the messages
+# Uncomment these lines to see all the messages
 #from kivy.logger import Logger
 #import logging
 #Logger.setLevel(logging.TRACE)
