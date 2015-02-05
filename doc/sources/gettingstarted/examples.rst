@@ -3,7 +3,8 @@ Examples
 
 .. container:: title
 
-    Follow through the examples.
+    You can explore the examples submitted by our vibrant community of Kivy users. The best way
+    to explore any rich toolkit is through running programs.   Enjoy!
 
 .. |ani_dir| replace:: ./examples/animation
 .. |ani_file| replace:: animate.py
